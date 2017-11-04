@@ -17,3 +17,5 @@ The file test.m is for noncorrelated demodulation, and test_co.m is for correlat
 num = 10000*ceil(1/P_e_a(i));
 ```
 However, the preformance of simualtion will be worse if number is lower. I suggust this number should be bigger than `100` according to `Monte-Carlo simulation`.
+
+## Computer Graphics 
